@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Mehmet Turgut, QA Tester from  Istanbul/Turkey 🇹🇷 </p>
+<p align="left">I'm Mehmet Turgut, former professional esports player turned QA Tester with a deep-seated passion for playing and testing video games from Istanbul/Turkey 🇹🇷.</p>
 
 ###
 
@@ -14,43 +14,89 @@
 
 ###
 
-<p align="left">I'm a former professional esports player turned QA Tester with a deep-seated passion for playing and testing video games.</p>
+<p align="left"></p>
+<ul>
+   <li>🌟 Former esports professional with a keen eye for detail.</li>
+   <li>🕹️ Dedicated to finding and documenting bugs to improve user experiences.</li>
+   <li>🎮 Passionate about gaming and QA with hands-on experience in automation.</li>
+   <li>🚀 Always eager to learn new tools and methodologies in the QA field.</li>
+</ul>
 
 ###
 
-<h2 align="center">Tech Stack💻</h2>
+<h2 align="left">Currently Learning 📚</h2>
+
+<ul>
+  <li><strong>Playwright:</strong> Exploring Playwright for browser automation, focusing on its cross-browser testing capabilities.</li>
+  <li><strong>Robot Framework:</strong> Deepening knowledge of Robot Framework for acceptance-level testing, including its syntax and integrations.</li>
+  <li><strong>Robot Framework with Appium:</strong> Working on automating mobile applications using Robot Framework combined with Appium for both Android and iOS testing.</li>
+</ul>
 
 ###
 
-<br clear="both">
+
+###
+
+<h2 align="center">Tech Stack 💻</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="35" alt="premierepro logo"  />
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <p>Python</p>
+  </div>
+    <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+    <p>Java</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="Pytest" />
+    <p>Pytest</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+    <p>Selenium</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+    <p>HTML5</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+    <p>CSS3</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+    <p>Bootstrap</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+    <p>Jira</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+    <p>PostgreSQL</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+    <p>Figma</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="Premiere Pro" />
+    <p>Premiere Pro</p>
+  </div>
 </div>
+
+###
+
+<h2 align="center">Highlighted Projects 🌟</h2>
+<p align="center">
+   <a href="https://github.com/mtaksel/my-portfolio">My Portfolio</a> - A comprehensive showcase of my projects and skills built with Cursor AI. <br/>
+   <a href="https://github.com/mtaksel/defects">Defects Repository</a> - Documented bugs and issues found on various websites and apps.<br/>
+   <a href="https://github.com/mtaksel/robot-framework-web-automation">Robot Framework Web Automation</a> - Web automation using Robot Framework with POM, covering various test scenarios. <br/>
+   <a href="https://github.com/mtaksel/amazon-test-automation">Amazon Test Automation</a> - A Python Selenium project to automate various scenarios on Amazon. <br/>
+  <a href="https://github.com/mtaksel/hepsiburada-web-automation">Hepsiburada Web Automation</a> - A Selenium automation project for Turkey’s popular e-commerce platform Hepsiburada. <br/>
+  <a href="https://github.com/mtaksel/reqres-api-testing">Reqres API Testing with Postman</a> - API testing project using the Reqres API, covering basic CRUD operations. <br/>
+</p>
 
 ###
 
@@ -96,10 +142,12 @@
 ###
 
 <div align="center">
+  <p>🎶 Check out what I’m listening to on Spotify!</p>
   <a href="https://open.spotify.com/user/corpsebringer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=corpsebringer&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=corpsebringer&count=5" alt="Spotify recently played" />
   </a>
 </div>
+
 
 ###
 
@@ -108,3 +156,4 @@
 </div>
 
 ###
+
