@@ -40,51 +40,52 @@
 <h2 align="center">Tech Stack 💻</h2>
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
     <p>Python</p>
   </div>
-    <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     <p>Java</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="Pytest" />
     <p>Pytest</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
     <p>Selenium</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
     <p>HTML5</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     <p>CSS3</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
     <p>Bootstrap</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
     <p>Jira</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
     <p>PostgreSQL</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
     <p>Figma</p>
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="Premiere Pro" />
     <p>Premiere Pro</p>
   </div>
 </div>
+
 
 ###
 
