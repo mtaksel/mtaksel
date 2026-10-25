@@ -1,3 +1,5 @@
+<img align="right" height="200" src="https://i.imgflip.com/8jvzw1.gif" alt="Animated profile GIF" />
+
 <h1 align="center">Hi, I'm Mehmet Turgut Aksel 👋</h1>
 
 <p align="center">
